@@ -24,6 +24,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Oscar_Wilde
     - http://en.wikipedia.org/wiki/Oscar_Wilde
 description: 'Translation of: An Ideal Husband'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32666#--------------------------------------------
 gutenberg_issued: '2010-06-02'
 gutenberg_type: Text
 identifiers:
